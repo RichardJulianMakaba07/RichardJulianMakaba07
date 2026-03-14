@@ -35,8 +35,16 @@
 
 ## 📂 Featured Projects
 🔹 **Python Projects**
-- 📌 CLI Login System with Validation
+- 📌 Motorcycle Rental Management CLI Application
+- 📌 Obesity Level Prediction based on Lifestyle Habits
+- 📌 Book Adaptation Prediction using Machine Learning
 
+🔹 **C++ Projects**
+- 📌 Barcelona Squad Management CLI Application
+  
+🔹 **Website Projects**
+- 📌 Laundry Management and Service Website
+  
 👉 More projects coming soon...
 
 ---
